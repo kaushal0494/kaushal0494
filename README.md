@@ -11,4 +11,5 @@ Hi, I'm [Kaushal Kumar Maurya](https://kaushal0494.github.io/), a PhD scholar at
 - 📫 Reach me @KaushalMaurya94 or at cs18resch11003 [at] iith [dot] ac [dot] in.
 - ⚡ I enjoy coding and teaching.
 - 📝 Here is my [Resume](https://kaushal0494.github.io/assets/Kaushal_CV_2022.pdf).
+- ![📝](https://kaushal0494.github.io/)
 
