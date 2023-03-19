@@ -5,9 +5,9 @@ Hi, I'm [Kaushal Kumar Maurya](https://kaushal0494.github.io/), a PhD scholar at
 ## Talking about Personal Stuffs:
 
 - 🔭 I’m currently working in the space of Multilingual and trustworthy Natual Language Processing.
-- 🌱 I'm currently learning Lnguistic concepts and new Jpanese language.
-- 👨‍💻 More details about me is available at https://kaushal0494.github.io/.
-- 💬 Feel Free to Ask me about: *NLP*, *Large Languges Models* and *Multilingual NLP*
+- 🌱 I'm currently learning **Linguistic** concepts and new **Japanese** language.
+- 👨‍💻 More details about me is available at [kaushal.com](https://kaushal0494.github.io/)
+- 💬 Feel Free to Ask me about: **NLP**, **Large Languges Models** and **Multilingual NLP**
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
