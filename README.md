@@ -10,5 +10,6 @@ Hi, I'm [Kaushal Kumar Maurya](https://kaushal0494.github.io/), a PhD scholar at
 - 💬 Feel Free to Ask me about: **NLP**, **Large Languges Models** and **Multilingual NLP**
 - 📫 Reach me @KaushalMaurya94 or at cs18resch11003 [at] iith [dot] ac [dot] in.
 - ⚡ I enjoy coding and teaching.
+- ❤️ I love travelling travelling and playing sports.
 - 📝 Here is my [Resume](https://kaushal0494.github.io/assets/pdf/Kaushal_CV_March_2023.pdf).
 
