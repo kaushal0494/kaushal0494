@@ -5,7 +5,7 @@ Hi, I'm [Kaushal Kumar Maurya](https://kaushal0494.github.io/), a Postdoctoral R
 ## Talking about Personal Stuff:
 
 - 🔭 I’m currently working in the space of `NLP/LLM for Education`, `Multilingual NLP` and `Responsible NLP`.
-- 🌱 I'm currently learning **Linguistic** concepts and **Japanese** language.
+- 🌱 I'm currently learning about the *Social aspects/impact of Education/Learning*, *Linguistic Concepts* and *Japanese Language*.
 - 👨‍💻 More details about me is available at [kaushal0494.github.io](https://kaushal0494.github.io/)
 - 💬 Feel Free to Ask me about: **NLP**, **Large Languages Models** and **Multilingual NLP**
 - 📫 Reach me @KaushalMaurya94 or at cs18resch11003 [at] iith [dot] ac [dot] in.
