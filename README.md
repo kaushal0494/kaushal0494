@@ -11,6 +11,7 @@ Hi, I'm [Kaushal Kumar Maurya](https://kaushal0494.github.io/), a Postdoctoral R
 - 📫 Reach me at [X](https://twitter.com/KaushalMaurya94), [LinkedIn](https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/) or ✉ 
  `kaushalmaurya.iith@gamil.com`.
 - ⚡ I enjoy research, coding, and teaching.
-- ❤️ In my free time I love traveling, reading (non-fiction mostly), and playing sports.
+- I find fulfillment in guiding startups and sharing knowledge through mentoring and educating others about NLP/LLM
+- ❤️ In my free time, I love traveling, reading (non-fiction mostly), and playing sports.
 - 📝 Here is my [Resume](https://kaushal0494.github.io/assets/pdf/Kaushal_Resume.pdf).
 
