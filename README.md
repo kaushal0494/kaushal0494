@@ -1,5 +1,7 @@
 ### Hi, I'm Kaushal Kumar Maurya 👋
 
+> **Advancing AI that learns, teaches, and benefits society.**
+
 I am an **Assistant Professor** in the **Computer Science & Artificial Intelligence** program at **IIT Delhi Abu Dhabi, UAE**.
 
 My research lies at the intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLMs)** and **AI for Education**. I am particularly interested in building **trustworthy, multilingual, and pedagogically grounded AI systems** that enhance learning, teaching, and human-AI collaboration.
@@ -29,8 +31,4 @@ I am always interested in collaborating on research related to **NLP**, **LLMs**
 | 💼 **LinkedIn** | https://www.linkedin.com/in/kaushal-kumar-maurya-73016773 |
 | 𝕏 **X** | https://x.com/kaushalMaurya94 |
 | 📧 **Email** | `kaushal.maurya[at]iitdabudhabi.ac.ae` |
-
----
-
-*"Advancing AI that learns, teaches, and benefits society."*
 
