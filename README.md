@@ -23,16 +23,16 @@ I am always interested in collaborating on research related to **NLP**, **LLMs**
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://kaushal0494.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=_mgUW7EAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/" target="_blank">
+  <a href="https://kaushal0494.github.io/">
+    <img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=_mgUW7EAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/kaushalMaurya94" target="_blank">
+  </a>&nbsp;
+  <a href="https://x.com/kaushalMaurya94">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
