@@ -19,27 +19,25 @@ Previously, I was a **Postdoctoral Research Fellow** and subsequently a **Resear
 
 I am always interested in collaborating on research related to **NLP**, **LLMs**, **AI for Education**, **Responsible AI**, and **Multilingual NLP**. Feel free to reach out if you'd like to discuss research ideas or collaborate on projects.
 
-## 🌐 Connect
 
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://kaushal0494.github.io/">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://kaushal0494.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=_mgUW7EAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  <a href="https://scholar.google.com/citations?user=_mgUW7EAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/kaushalMaurya94">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:kaushal.maurya@iitdabudhabi.ac.ae">
-    <img src="https://img.shields.io/badge/Email-kaushal.maurya%5Bat%5Diitdabudhabi.ac.ae-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://x.com/kaushalMaurya94" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
+
+📧 **Email:** `kaushal.maurya[at]iitdabudhabi.ac.ae`
 
 ---
 
