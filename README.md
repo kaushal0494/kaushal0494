@@ -1,17 +1,33 @@
-### Hi there 👋  [![HitCount](https://hits.dwyl.com/kaushal0494/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/kaushal0494/READMEmd)
+### Hi, I'm Kaushal Kumar Maurya 👋 [![HitCount](https://hits.dwyl.com/kaushal0494/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/kaushal0494/READMEmd)
 
-Hi, I'm [Kaushal Kumar Maurya](https://kaushal0494.github.io/), a Postdoctoral Researcher in the [Department of Natural Language Processing](https://mbzuai.ac.ae/research/department/natural-language-processing-department/) at the [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), Abu Dhabi, UAE. Prior to this, I completed my PhD from the [NLIP Lab](https://cse.iith.ac.in/nlip) affiliated with the [Department of Computer Science and Engineering](https://cse.iith.ac.in/) at [IIT Hyderabad](https://iith.ac.in/).
+I am an **Assistant Professor** in the **Computer Science & Artificial Intelligence** program at **IIT Delhi Abu Dhabi, UAE**.
 
-## Talking about Personal Stuff:
+My research lies at the intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLMs)** and **AI for Education**. I am particularly interested in building **trustworthy, multilingual, and pedagogically grounded AI systems** that enhance learning, teaching, and human-AI collaboration.
 
-- 🔭 I’m currently working in the space of `NLP/LLM for Education`, `Multilingual NLP` and `Responsible NLP`. Aiming towards innovations for social benefits.
-- 🌱 I'm currently learning/reading about the `Correct Pedagogy of Education/Learning`, `Linguistic Concepts`, and the `Japanese Language`.
-- 👨‍💻 More details about my research can be found here: [kaushal0494.github.io](https://kaushal0494.github.io/)
-- 💬 Feel free to ask me about: **NLP**, **LLM**, **Multilingual NLP** and **EduTech**.
-- 📫 Reach me at [X](https://twitter.com/KaushalMaurya94), [LinkedIn](https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/) or ✉ 
- `kaushalmaurya.iith@gamil.com`.
-- ⚡ I enjoy research, coding, and teaching.
-- I find fulfillment in guiding startups and sharing knowledge through mentoring and educating others about NLP/LLM
-- ❤️ In my free time, I love traveling, reading (non-fiction mostly), and playing sports.
-- 📝 Here is my [Resume](https://kaushal0494.github.io/assets/pdf/Kaushal_Resume.pdf).
+Previously, I was a **Postdoctoral Research Fellow** and subsequently a **Research Scientist** at the **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**. I received my **Ph.D.** from the **Natural Language and Information Processing (NLIP) Lab** at **IIT Hyderabad**.
+
+## 🔬 Research Interests
+
+- Large Language Models (LLMs)
+- AI for Education & Intelligent Tutoring Systems
+- Human-AI Collaboration
+- Multilingual & Low-Resource NLP
+- Responsible AI
+- Learning Sciences & Computational Pedagogy
+
+## 🤝 Collaboration
+
+I am always interested in collaborating on research related to **NLP**, **LLMs**, **AI for Education**, **Responsible AI**, and **Multilingual NLP**. Feel free to reach out if you'd like to discuss research ideas or collaborate on projects.
+
+## 🌐 Connect
+
+- 🌍 **Website:** https://kaushal0494.github.io/
+- 🎓 **Google Scholar:** https://scholar.google.com/citations?user=_mgUW7EAAAAJ&hl=en
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/
+- 𝕏 **X (Twitter):** https://x.com/kaushalMaurya94
+- 📧 **Email:** kaushal.maurya[at]iitdabudhabi.ac.ae
+
+---
+
+*"Advancing AI that learns, teaches, and benefits society."*
 
