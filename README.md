@@ -1,10 +1,10 @@
-### Hi, I'm Kaushal Kumar Maurya 👋 [![HitCount](https://hits.dwyl.com/kaushal0494/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/kaushal0494/READMEmd)
+### Hi, I'm Kaushal Kumar Maurya 👋 [![trophy](https://github-profile-trophy.vercel.app/?username=kaushal0494&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 I am an **Assistant Professor** in the **Computer Science & Artificial Intelligence** program at **IIT Delhi Abu Dhabi, UAE**.
 
 My research lies at the intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLMs)** and **AI for Education**. I am particularly interested in building **trustworthy, multilingual, and pedagogically grounded AI systems** that enhance learning, teaching, and human-AI collaboration.
 
-Previously, I was a **Postdoctoral Research Fellow** and subsequently a **Research Scientist** at the **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**. I received my **Ph.D.** from the **Natural Language and Information Processing (NLIP) Lab** at **IIT Hyderabad**.
+Previously, I was a **Postdoctoral Research Fellow** and subsequently a **Research Scientist** at the **[Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/)**. I received my **Ph.D.** from the **[Natural Language and Information Processing (NLIP) Lab](https://cse.iith.ac.in/nlip/)**, **[Department of Computer Science and Engineering](https://cse.iith.ac.in/)**, **[Indian Institute of Technology Hyderabad (IIT Hyderabad)](https://iith.ac.in/)**, India.
 
 ## 🔬 Research Interests
 
